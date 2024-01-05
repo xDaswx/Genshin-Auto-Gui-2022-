@@ -1,4 +1,4 @@
-This is an automation code for Genshin Impact just for testing I did in python in 2022, there is not much to do in it.
+This is an automation code for Genshin Impact just for testing I did in python in 2022 (8/27/2022), there is not much to do in it.
 
 There are attempts with the win32 api but there was some type of protection going on (in 2022 I think?), I don't know...
 
